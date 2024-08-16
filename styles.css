@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	background-image: url("https://img.freepik.com/free-photo/futuristic-metaverse-empty-room-product-display-presentation-abstract-technology-scifi-with-neon-light-3d-background_56104-2314.jpg");
+    background-size: cover;
+    background-position: center;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+}
+.conatins {
+	display: flex;
+	justify-content: center;
+	
+}
+.conatins ul{
+	background-color: white;
+	padding: 1rem;
+	margin-left: 0.5rem;
+}

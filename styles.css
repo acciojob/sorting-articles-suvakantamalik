@@ -6,14 +6,18 @@ body{
 	background-repeat: no-repeat;
 	height: 100%;
 	width: 100%;
-}
-.conatins {
 	display: flex;
 	justify-content: center;
-	
 }
-.conatins ul{
+
+ul{
 	background-color: white;
-	padding: 1rem;
+	padding: 0.3rem;
 	margin-left: 0.5rem;
+	width: 10rem;
+	height: 100%;
+}
+ul > li{
+	margin: 1rem;
+	border-bottom: 1px solid black;
 }
